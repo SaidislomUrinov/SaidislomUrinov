@@ -1,4 +1,4 @@
-# 💻 SAIDNET | Full-Stack JavaScript Developer  
+# 🧑‍💻 SAIDNET | Full-Stack JavaScript Developer  
 
 Hi there! I’m **Saidislom Urinov**, an experienced **Full-Stack JavaScript Developer** with 3+ years in frontend development and 2+ years in backend development. I love working with modern web technologies and building efficient, fast, and scalable solutions.  
 
