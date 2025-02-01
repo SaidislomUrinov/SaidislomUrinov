@@ -19,7 +19,7 @@ Hi there! I’m **Saidislom Urinov**, an experienced **Full-Stack JavaScript Dev
 ### **Additional Skills:**  
 - 🐳 Docker, PM2, Nginx  
 - 🔄 CI/CD, API integration  
-- 🛒 E-commerce & complex system development  
+- 🛒 E-commerce & complex system development
 
 ## 📂 My Projects  
 Check out my repositories for real-world solutions and high-quality code. I focus on delivering robust and scalable applications.  
