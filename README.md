@@ -25,7 +25,7 @@ Check out my repositories for real-world solutions and high-quality code. I focu
 
 ## 📫 Get in Touch  
 - 🌍 **Resume:** [Saidnet](https://saidnet.uz)  
-- 📩 **Email:** me@saidnet.com  
+- 📩 **Email:** me@saidnet.uz  
 - 💬 **Telegram:** [@Saidweb](https://t.me/saidweb)  
 
 ⭐ If you like my work, consider giving my repositories a star! 🚀  
