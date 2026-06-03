@@ -10,9 +10,9 @@ Hi there! I’m **Saidislom Urinov**, an experienced **Full-Stack JavaScript Dev
 - 🎭 UI/UX design  
 
 ### **Backend:**  
-- 🛠️ Node.js, Express.js, Nest.js  
+- 🛠️ Node.js, Express.js  
 - 📡 WebSocket, Socket.io  
-- 🗄️ MongoDB, Mongoose, PostgreSQL  
+- 🗄️ MongoDB, Mongoose, Redis  
 - 🔑 REST API, GraphQL, JWT, OAuth2  
 
 ### **Additional Skills:**  
